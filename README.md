@@ -4,6 +4,10 @@ A private repository with some designs
 
 ## Xarxa de Fab Labs de Catalunya
 
+Made with [Helvetica Neue](fabcat1/helvetica_neue_lt_std/)
+
+![v2](fabcat1/fabcat.svg)
+
 ## Fabcat
 
 A second version of the logo.
