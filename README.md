@@ -29,3 +29,9 @@ Round version:
 Uses the typography [Stenciles.ttf](tesseract/Stenciles.ttf)
 
 ![tesseract](tesseract/tesseract.svg)
+
+## wherever
+
+Using an additive light properties in Inkscape. Original SVG [here](wherever/wherever.svg), it cannot be seen on the browser.
+
+![wherever](wherever/wherever.png)

@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="230.50554mm"
-   height="41.91mm"
-   viewBox="0 0 230.50554 41.91"
+   width="263.76862mm"
+   height="85.446175mm"
+   viewBox="0 0 263.76862 85.446175"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="aditive.svg"
+   sodipodi:docname="wherever.svg"
    style="enable-background:new"
-   inkscape:export-filename="/home/irix/Desktop/aditive2.svg.png"
+   inkscape:export-filename="/home/irix/Desktop/wherever.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -91,13 +91,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71219298"
-     inkscape:cx="183.12765"
-     inkscape:cy="35.882908"
+     inkscape:cx="132.96387"
+     inkscape:cy="102.7107"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -113,7 +113,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,25 +122,24 @@
      id="layer2"
      inkscape:label="G 1"
      style="display:inline;opacity:1"
-     transform="translate(122.64488,-462.46448)">
-    <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.4282321;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect5293"
-       width="508"
-       height="285.75"
-       x="-260.1937"
-       y="348.28775" />
-  </g>
+     transform="translate(139.27641,-440.69638)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="G 2"
-     style="display:inline;opacity:0.851"
-     transform="translate(122.64488,-462.46448)">
+     style="display:inline;opacity:0.85100002"
+     transform="translate(139.27641,-440.69638)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect839"
+       width="263.76862"
+       height="85.446175"
+       x="-139.27641"
+       y="440.69638"
+       ry="0.73058075" />
     <g
        id="g5421"
-       transform="translate(2.947998e-7,-2.7842713e-6)"
-       style="">
+       transform="translate(2.947998e-7,-2.7842713e-6)">
       <path
          d="m -102.61914,478.657 v -3.175 h 3.174998 v 3.175 z m 19.049997,0 v -3.175 h 3.175 v 3.175 z m -19.049997,3.175 v -3.175 h 3.174998 v 3.175 z m 9.524998,0 v -3.175 h 3.175 v 3.175 z m 9.524999,0 v -3.175 h 3.175 v 3.175 z m -19.049997,3.175 v -3.175 h 3.174998 v 3.175 z m 9.524998,0 v -3.175 h 3.175 v 3.175 z m 9.524999,0 v -3.175 h 3.175 v 3.175 z m -19.049997,3.175 v -3.175 h 3.174998 v 3.175 z m 6.349998,0 v -3.175 h 3.175 v 3.175 z m 6.35,0 v -3.175 h 3.175 v 3.175 z m 6.349999,0 v -3.175 h 3.175 v 3.175 z m -15.874999,3.175 v -3.175 h 3.175 v 3.175 z m 3.175,0 v -3.175 h 3.175 v 3.175 z m 6.35,0 v -3.175 h 3.175 v 3.175 z m 3.175,0 v -3.175 h 3.174999 v 3.175 z m -12.7,3.175 v -3.175 h 3.175 v 3.175 z m 12.7,0 v -3.175 h 3.174999 v 3.175 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'ProggyCleanTTSZ Nerd Font Mono';-inkscape-font-specification:'ProggyCleanTTSZ Nerd Font Mono';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -211,12 +210,5 @@
            x="-103.59488"
            sodipodi:role="line">wherever|</tspan></text>
     </g>
-    <rect
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect843"
-       width="47.181149"
-       height="94.733803"
-       x="80.568405"
-       y="445.30518" />
   </g>
 </svg>
