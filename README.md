@@ -4,7 +4,7 @@ A repository with some of my graphic designs
 
 ## Xarxa de Fab Labs de Catalunya
 
-Made with [Helvetica Neue](fabcat1/helvetica_neue_lt_std/)
+Made with [Helvetica Neue](https://www.fonts.com/font/linotype/neue-helvetica)
 
 ![v2](fabcat1/fabcat.svg)
 
