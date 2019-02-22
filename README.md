@@ -1,6 +1,6 @@
 # Designs
 
-A private repository with some designs
+A repository with some of my graphic designs
 
 ## Xarxa de Fab Labs de Catalunya
 
@@ -16,7 +16,7 @@ A second version of the logo.
 
 ## Beach Lab official logo
 
-Created by Max Rippo.
+Created by Max Rippo, color scheme by Francisco Sanchez
 
 ![v2](beachlab/beachlab.svg)
 
@@ -35,3 +35,9 @@ Uses the typography [Stenciles.ttf](tesseract/Stenciles.ttf)
 Using an additive light properties in Inkscape. Original SVG [here](wherever/wherever.svg), it cannot be seen on the browser.
 
 ![wherever](wherever/wherever.png)
+
+## Scylla
+
+Project name of an autonomous submarine.
+
+![scylla](scylla/scyllalogo.svg)
