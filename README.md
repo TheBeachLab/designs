@@ -41,3 +41,9 @@ Using an additive light properties in Inkscape. Original SVG [here](wherever/whe
 Project name of an autonomous submarine.
 
 ![scylla](scylla/scyllalogo.svg)
+
+## Structural supports
+
+Flat design structural support members.
+
+![structural-supports](structural/structural.svg)
