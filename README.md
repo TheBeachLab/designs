@@ -44,6 +44,6 @@ Project name of an autonomous submarine.
 
 ## Structural supports
 
-Flat design structural support members.
+Flat design structural support members. Original SVG [here](structural/structural.svg), it cannot be properly seen on the browser.
 
-![structural-supports](structural/structural.svg)
+![structural-supports](structural/structural.png)
