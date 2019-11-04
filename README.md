@@ -1,6 +1,6 @@
 # Designs
 
-A repository with some of my graphic designs
+A repository with some of my graphic designs (logos et al.)
 
 ## Xarxa de Fab Labs de Catalunya
 
@@ -41,9 +41,3 @@ Using an additive light properties in Inkscape. Original SVG [here](wherever/whe
 Project name of an autonomous submarine.
 
 ![scylla](scylla/scyllalogo.svg)
-
-## Structural supports
-
-Flat design structural support members. Original SVG [here](structural/structural.svg), it cannot be properly seen on the browser.
-
-![structural-supports](structural/structural.png)
